@@ -3,7 +3,7 @@
 <span>Photo by <a href="https://unsplash.com/@persnicketyprints?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Persnickety Prints</a> on <a href="https://unsplash.com/s/photos/bowling?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ## Requerimientos funcionales
-![Bowling score](img/bowling.png) 
+![Bowling score](bowling.png) 
 
 - The game consists of 10 frames as shown above. In each frame the player has two opportunities to knock down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares.
 - A spare is when the player knocks down all 10 pins in two tries. The bonus for that frame is the number of pins knocked down by the next roll. So in frame 3 above, the score is 10 (the total number knocked down) plus a bonus of 5 (the number of pins knocked down on the next roll.)
@@ -18,7 +18,6 @@
 - Código fuente
   - Orientado a Objetos
   - Métodos Pequeños
-  - Aplicar los principios [SOLID](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 
 ## Tecnologías
 - Lenguaje de programación Javascript
