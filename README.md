@@ -1,14 +1,17 @@
 # Kata El Juego de Boliche
 ![img/cover.jpg](https://www.clubfuturama.com/appManager/recursos/img/1/stock/BOL55f1d29a09a41_movHNormal.jpg)
-<span>Photo by <a href="https://unsplash.com/@persnicketyprints?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Persnickety Prints</a> on <a href="https://unsplash.com/s/photos/bowling?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ## Requerimientos funcionales
 ![Bowling score](bowling.png) 
 
-- The game consists of 10 frames as shown above. In each frame the player has two opportunities to knock down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares.
-- A spare is when the player knocks down all 10 pins in two tries. The bonus for that frame is the number of pins knocked down by the next roll. So in frame 3 above, the score is 10 (the total number knocked down) plus a bonus of 5 (the number of pins knocked down on the next roll.)
-- A strike is when the player knocks down all 10 pins on his first try. The bonus for that frame is the value of the next two balls rolled.
-- In the tenth frame a player who rolls a spare or strike is allowed to roll the extra balls to complete the frame. However no more than three balls can be rolled in tenth frame.
+El juego consta de 10 marcos como se muestra arriba. En cada marco, el jugador tiene dos oportunidades para derribar 10 bolos. La puntuación para el marco es el número total de bolos derribados, más bonos por strikes y spares.
+
+Un spare es cuando el jugador derriba todos los 10 bolos en dos intentos. El bono para ese marco es el número de bolos derribados en el siguiente lanzamiento. Entonces en el marco 3 de arriba, la puntuación es 10 (el número total derribado) más un bono de 5 (el número de bolos derribados en el siguiente lanzamiento).
+
+Un strike es cuando el jugador derriba todos los 10 bolos en su primer intento. El bono para ese marco es el valor de los dos siguientes lanzamientos.
+
+En el décimo marco, se permite al jugador que haga un spare o strike lanzar las bolas adicionales para completar el marco. 
+Sin embargo, no se pueden lanzar más de tres bolas en el décimo marco.
 
 ## Requerimientos no funcionales
 - Calidad
