@@ -1,14 +1,6 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/4d4a7e0f92d11965ba4f/maintainability)](https://codeclimate.com/github/BC-MAY-21-RN/kata-02-el-juego-de-boliche-k2-m22-t2-reactive-02/maintainability)
-
-![BrightCoders Logo](img/logo-bc.png)
-
 # Kata El Juego de Boliche
-![cover](img/cover.jpg)
+![img/cover.jpg](https://www.clubfuturama.com/appManager/recursos/img/1/stock/BOL55f1d29a09a41_movHNormal.jpg)
 <span>Photo by <a href="https://unsplash.com/@persnicketyprints?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Persnickety Prints</a> on <a href="https://unsplash.com/s/photos/bowling?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-## Pre-requisitos
-- [Instalar y utilizar ESLint para mantener tu codigo consistente e identificar posibles problemas](https://eslint.org/)
-- Integrar [CodeClimate](https://codeclimate.com/) CodeClimate a tu repositorio.
 
 ## Requerimientos funcionales
 ![Bowling score](img/bowling.png) 
@@ -21,8 +13,6 @@
 ## Requerimientos no funcionales
 - Calidad
   - Utilizar estilo de código definido por la comunidad (apoyarse en ESLint)
-  - Puntuación **A** obtenida en CodeClimate
-  - Incluir pruebas unitarias(Jest)
 - Desempeño y escalabilidad
   - Puede ejecutarse desde la linea de comandos y mostrar la salida en consola
 - Código fuente
@@ -32,10 +22,10 @@
 
 ## Tecnologías
 - Lenguaje de programación Javascript
-- Línea de comando / consola
+- Entorno gráfico
 
 ## Entregable
-- Código fuente en Github (en la rama master)
+- Código fuente en Github (hacer un fork del repositorio)
 
 ## Resources
 - [Learn Javascript - Interactive tutorial](https://www.learn-js.org/)
